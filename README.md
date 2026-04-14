@@ -1,3 +1,6 @@
+![lamelo-ball-playing-basketball-g8ectrg33gleeea1](https://github.com/user-attachments/assets/057d2ea2-e289-4782-9c75-6355407eda2d)
+
+
 # 🏀 Mycareer Simulator
 
 #### 🎮 Sobre o projeto
